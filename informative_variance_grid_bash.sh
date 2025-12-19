@@ -1,6 +1,6 @@
 #!/bin/bash
-# Author: P. Sulewski.
-# Editor: P. Barkema.
+# Author: P. Barkema
+# Edited from P. Sulewski
 
 #$ -N ikw_high_pass_test_causal_0.5Hz
 #$ -pe default 7-19
@@ -92,5 +92,6 @@ end_time=$(date +%y%m%d_%H%M)
 
 echo started $start_time
 echo ended   $end_time
+
 
 

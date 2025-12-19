@@ -52,4 +52,4 @@ CCI bridges the gap between cognitive neuroscience and established Machine Learn
 ---
 
 ## 🎓 Impact
-This pipeline is currently utilized in the **Kietzmann Lab** (Donders Institute) for MEG-analysis. The results provide evidence that cortical variance is structured and functionally relevant to how the human brain recognizes object classes.
+This pipeline is currently used in the **Kietzmann Lab** (Donders Institute) for MEG-analysis. The results provide evidence that cortical variance is structured and functionally relevant to how the human brain recognizes object classes.
